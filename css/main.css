@@ -1,5 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: #FFD2FC;
+    font-size: 18pt;
 
 }
 
@@ -10,5 +12,20 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Lexend', sans-serif;s
+    font-family: 'Lexend', sans-serif;
+    color: #1E1B18;
+}
+.links {
+    text-decoration: none;
+    color: #CA054D;
+}
+h1 {
+    text-shadow: 2px 3px 4px #CA054D;
+}
+.text-align {
+    text-align: center;
+}
+.profile-align {
+    display: block;
+    margin: auto;
 }
