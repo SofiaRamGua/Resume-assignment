@@ -26,8 +26,12 @@ h1 {
     text-align: center;
 }
 .profile-align {
+    text-align: center;
     display: block;
-    padding: 30px;
-    
-    
+    padding: 30px; 
+}
+.profile-align img {
+    border: solid;
+    border-color: red;
+    border-radius: 12px;
 }
